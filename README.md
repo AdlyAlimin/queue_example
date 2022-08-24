@@ -14,6 +14,10 @@ npm install
 npm run dev
 ```
 
+## Configuration
+
+Change **QUEUE_CONNECTION** in .env from ***sync*** to ***database***
+
 ## Run Queue
 
 Open new terminal and run this command -
