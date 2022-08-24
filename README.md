@@ -19,7 +19,7 @@ npm run dev
 Open new terminal and run this command -
 
 ```bash
-php artisan queue:listen //this is for local development
+php artisan queue:listen #this is for local development
 ```
 
 ## Run Scheduler
